@@ -1,0 +1,49 @@
+- !<AssetImportMetadata/851cfc43-9bdf-4062-89d2-717999d712e4>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> b42f54fc-8b35-426b-a1f6-3d2a5f32919e
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> b42f54fc-8b35-426b-a1f6-3d2a5f32919e
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> c9eb0276-cf58-4d7e-904f-7a9a38e101f3
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/c9eb0276-cf58-4d7e-904f-7a9a38e101f3>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  VersionPrerelease: ""
+  UpdateOrder: 0
+  ComponentUid: 922b3c14-7b2d-4a38-9d8d-27e1d2db3a18
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    dragon: false
+    ui: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - ui: !<MappingBased.AssignableType_1> 00000000-0000-0000-0000-000000000000
+      dragon: !<MappingBased.AssignableType_2> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @input AssignableType_1 ui {"hint":"Painel passivo das ações"}'
+    - '// @input AssignableType_2 dragon {"hint":"Dragão articulado e adereços"}'

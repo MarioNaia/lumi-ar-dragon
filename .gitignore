@@ -1,0 +1,55 @@
+# Lens Studio generated data and local editor state
+/Cache/
+/Support/
+/Workspaces/
+/PluginsUserPreferences/
+/Plugins/
+*.esproj.*.lock
+*.lock
+*.log
+*.tmp
+*.temp
+*.bak
+*.old
+*~
+/.virtual-scene.json
+
+# Personal agent and editor configuration
+/.claude/
+/.codex/
+/.cursor/
+/.vscode/
+/.agents/
+/.mcp.json
+/AGENTS.md
+/CLAUDE.md
+
+# Credentials, environment files and signing/debug keys
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+*.jks
+credentials.json
+secrets.json
+
+# Backups, exports and local tooling outputs
+/backups/
+/backup/
+/*_backup*/
+/node_modules/
+/dist/
+/build/
+/exports/
+*.zip
+*.spkg
+*.lens
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Keep Assets/, Packages/, their .meta files and Lumi523.esproj tracked.
